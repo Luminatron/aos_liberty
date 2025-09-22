@@ -10,7 +10,7 @@ The aim of this romhack is to strike a radical balance between freedom and diffi
 * Higher elemental variety among your weapons and red souls.
 * Some yellow souls include effects of other yellow souls ("Dextro", "Gilded", etc.)
 * Higher base MP regen. Base MP increased from 80 to 100.
-* 
+
 * MP doesn't increase on level-up.
 * Your stats -50%. Enemy stats drastically increased, with more/changed resistances and a drastically reduced mass weakness to Holy.
 * The way level stats are changed, you don't gain any stats except HP/LCK until Lv10.
