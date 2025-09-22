@@ -10,7 +10,7 @@ The aim of this romhack is to strike a radical balance between freedom and diffi
 * Higher elemental variety among your weapons and red souls.
 * Some yellow souls include effects of other yellow souls ("Dextro", "Gilded", etc.)
 * Higher base MP regen. Base MP increased from 80 to 100.
-
+* 
 * MP doesn't increase on level-up.
 * Your stats -50%. Enemy stats drastically increased, with more/changed resistances and a drastically reduced mass weakness to Holy.
 * The way level stats are changed, you don't gain any stats except HP/LCK until Lv10.
@@ -23,23 +23,18 @@ Extra notes:
 * Poison here is colloquially referred to as "corrode" in item descriptions due to the changed archetype of enemies weak to poison (armors, golems, demons). It is arguable that corrode is the best status you can use at any point in the game.
 * Stone weakness archetype is also changed (anyone with fast annoying movement). Some enemies aren't coded to allow stun by petrify, in which case they'd still take double damage.
 * "KM" is of course the Killer Mantle effect, which has been rebalanced with enemies only gaining/losing 50% of their max HP if affected (except for special instakill cases).
-
 * Weapons fully give STR instead of ATK now (unless 50% damage, then it's 50-50). Merely a buff to slide/kick damage and Great Armor soul.
-
 * Book of Death still uses the original Death Scythe hitboxes, hence the absurd amount of vertical range.
 
 Current bugs:
 
 * Certain items aren't sellable due to a DSVedit bug when accessing the Shop List.
-
 * If you happen to equip Chaos Ring really early (say, via New Game Plus) in a way that it'd give you negative INT, your blue souls may underflow and deal massive (sometimes negative) damage. I have no intention to fix this, because it's normally not possible to get Chaos Ring that early in regular gameplay. Also, it's funny.
-
 * Palettes chosen for Chaotic Realm might have graphical glitches, and have questionable compatibility with recolour mods.
 
 Thanks to:
 
 * LagoLunatic, for DSVania Editor.
-
 * For several patches I included because I like them:
 * * caminopreacher - palette changes to Student Witch, Witch, Blue Crow, UI trims
 * * DevAnj - MPRegen, INTpatch
